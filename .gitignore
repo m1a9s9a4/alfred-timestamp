@@ -12,8 +12,9 @@
 alfred-timestamp
 main
 
-# Alfred workflow package
+# Alfred workflow package (exclude from git, but include releases/)
 *.alfredworkflow
+!releases/*.alfredworkflow
 
 # Go workspace file
 go.work

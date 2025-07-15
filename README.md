@@ -4,7 +4,7 @@ Alfred workflow for converting between various datetime and timestamp formats.
 
 ## Download
 
-**[Download alfred-timestamp.alfredworkflow](https://github.com/masafumikato/alfred-timestamp/releases/latest/download/alfred-timestamp.alfredworkflow)**
+**[Download alfred-timestamp.alfredworkflow](https://github.com/masafumikato/alfred-timestamp/raw/main/releases/alfred-timestamp.alfredworkflow)**
 
 Click the link above to download the workflow file, then double-click it to install in Alfred.
 
